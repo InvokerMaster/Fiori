@@ -1,0 +1,16 @@
+{
+    "name": "InvokerMaster/Fiori",
+    "type": "library",
+    "description": "Fiori HTML Template",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "http://sonia-beauty.herokuapp.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sonia",
+            "email": "tannai.odin@gmail.com",
+            "homepage": "http://sonia-beauty.herokuapp.com/",
+            "role": "Developer"
+        }
+    ],
+}
